@@ -31,7 +31,7 @@ export const headerMenuConfig: IHeaderMenu[] = [
     subMenu: [],
   },
   {
-    title: '文稿',
+    title: '博文',
     path: '/posts',
     type: 'Post',
     subMenu: [],

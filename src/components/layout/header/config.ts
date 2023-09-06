@@ -38,7 +38,7 @@ export const headerMenuConfig: IHeaderMenu[] = [
     icon: h(IcTwotoneSignpost),
   },
   {
-    title: '手记',
+    title: '日记',
     type: 'Note',
     path: '/notes',
     icon: h(FaSolidFeatherAlt),
